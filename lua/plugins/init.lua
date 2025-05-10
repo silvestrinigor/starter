@@ -13,6 +13,9 @@ return {
     end,
   },
 
+  { "echasnovski/mini.indentscope", enabled = false },
+
+  { "lukas-reineke/indent-blankline.nvim", enabled = false },
   -- test new blink
   -- { import = "nvchad.blink.lazyspec" },
 
